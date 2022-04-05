@@ -9,8 +9,6 @@ const Home: NextPage = () => {
     <div className="relative flex flex-col items-center justify-center w-screen h-screen">
       <Title />
 
-      <Box />
-
       <Social />
     </div>
   );

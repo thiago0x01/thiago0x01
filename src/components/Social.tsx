@@ -2,17 +2,17 @@ import Image from 'next/image';
 
 export default function Social() {
   return (
-    <div className="absolute top-[50%] right-[20px] flex flex-col">
+    <div className="flex">
       <a
         href="https://github.com/thiago0x01"
-        className="mb-4"
+        className="mr-4"
         target="_blank"
         rel="noreferrer"
       >
         <Image
           src="/images/github-icon.svg"
-          width={48}
-          height={48}
+          width={24}
+          height={24}
           alt="github icon"
         />
       </a>
@@ -24,8 +24,8 @@ export default function Social() {
       >
         <Image
           src="/images/linkedin-icon.svg"
-          width={48}
-          height={48}
+          width={24}
+          height={24}
           alt="github icon"
         />
       </a>
