@@ -2,10 +2,10 @@ import Image from 'next/image';
 
 export default function Social() {
   return (
-    <div className="flex">
+    <div className="flex justify-center items-center">
       <a
         href="https://github.com/thiago0x01"
-        className="mr-4"
+        className="flex mr-4"
         target="_blank"
         rel="noreferrer"
       >
@@ -19,6 +19,7 @@ export default function Social() {
 
       <a
         href="https://linkedin.com.br/in/thiago0x01"
+        className="flex"
         target="_blank"
         rel="noreferrer"
       >
