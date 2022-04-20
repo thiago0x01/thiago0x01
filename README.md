@@ -1,5 +1,3 @@
-## Olá! 🖐️
-
 [![Links](https://img.shields.io/badge/Links-001427?style=for-the-badge&logoColor=white)](https://thiago0x01.vercel.app/)
 
 <div style="display: inline_block">
