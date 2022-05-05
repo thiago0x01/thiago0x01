@@ -19,7 +19,7 @@ export default function Social() {
 
       <a
         href="https://linkedin.com.br/in/thiago0x01"
-        className="flex mr-4"
+        className="flex"
         target="_blank"
         rel="noreferrer"
       >
@@ -28,20 +28,6 @@ export default function Social() {
           width={24}
           height={24}
           alt="linkedin icon"
-        />
-      </a>
-      
-      <a
-        href="https://medium.com/@thiago0x01"
-        className="flex"
-        target="_blank"
-        rel="noreferrer"
-      >
-        <Image
-          src="/images/medium-icon.svg"
-          width={24}
-          height={24}
-          alt="medium icon"
         />
       </a>
     </div>
