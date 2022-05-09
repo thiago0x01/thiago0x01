@@ -1,1 +1,1 @@
-Full Stack Developer 👨🏼‍💻 | Working with TS, React, Node ⚛️ | Learning Web3 & Solidity 🌑
+👨🏼‍💻 Full Stack Developer 🪐 TypeScript, React, Node.js 🌑 Estudando sobre Web3 & Solidity
