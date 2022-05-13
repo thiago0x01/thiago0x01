@@ -1,1 +1,4 @@
-👨🏼‍💻 Full Stack Developer 🪐 TypeScript, React, Node.js 🌑 Estudando sobre Web3 & Solidity
+🏃🏼‍♂️ “Constantly evolving…”
+👨🏼‍💻 Full Stack Developer
+🪐 TypeScript, React, Node.js
+📚 Web3 & Solidity
