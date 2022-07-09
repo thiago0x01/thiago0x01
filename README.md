@@ -1,5 +1,5 @@
 ## Hi there I'm Thiago Machado
-### I'm a Front-end Developer based in Brazil
+### I'm a Front End Developer based in Brazil
 
 - 🏢 I'm currently working at **[cobogo social](https://cobogo.social).**
 - ⚙️ I use daily: `TypeScript`, `React`
